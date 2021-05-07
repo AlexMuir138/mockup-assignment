@@ -1,0 +1,14 @@
+:root{
+  bg-geek:#222222;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero{
+  height: 125vh;
+  background-image: url(https://i.guim.co.uk/img/media/674ea94372197ebb9633789beeaaca7fd20ce5c0/286_12_1329_798/master/1329.jpg?width=1200&quality=85&auto=format&fit=max&s=1e62fe24659124458e9d3d47d4e12431);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
